@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnamaeDdnsClient", "OnamaeDdnsClient\OnamaeDdnsClient.csproj", "{CAE8E4C4-5A84-4AD3-BEB1-0F40C17A2342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{C360B300-DEE3-4457-92E7-B364BAECBE00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE8E4C4-5A84-4AD3-BEB1-0F40C17A2342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE8E4C4-5A84-4AD3-BEB1-0F40C17A2342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE8E4C4-5A84-4AD3-BEB1-0F40C17A2342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE8E4C4-5A84-4AD3-BEB1-0F40C17A2342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C360B300-DEE3-4457-92E7-B364BAECBE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C360B300-DEE3-4457-92E7-B364BAECBE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C360B300-DEE3-4457-92E7-B364BAECBE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C360B300-DEE3-4457-92E7-B364BAECBE00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987ADF30-06D6-4DE9-8DFA-4DC4D735A461}
+	EndGlobalSection
+EndGlobal
